@@ -1,1 +1,1 @@
-# uc-education.github.io
+# http://uc-education.github.io
